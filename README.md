@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently working on Full-stack web projects and DSA to prepare for software engineering roles.<br>I am looking to collaborate on Open-source or full-stack projects using React, Node.js, and modern web technologies.<br>I am looking for help with Advanced data structures, system design, and scalable backend development.<br>I am currently learning Data Structures & Algorithms, React, Node.js, and backend architecture.<br>C++, web development, internships, and coding practice strategies.<br>I enjoy solving coding problems late at night and turning ideas into real web apps.
+I'm currently working on Full-stack web projects and DSA to prepare for software engineering roles.<br>I'm looking to collaborate on Open-source or full-stack projects using React, Node.js, and modern web technologies.<br>I am looking for help with Advanced data structures, system design, and scalable backend development.<br>I'm currently learning Data Structures & Algorithms, React, Node.js, and backend architecture.<br> Ask me about C++, web development, internships, and coding practice strategies.<br> Fun fact: I enjoy solving coding problems late at night and turning ideas into real web apps.
 
 
 ## 🌐 Socials:
